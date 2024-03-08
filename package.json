@@ -3,10 +3,13 @@
   "displayName": "unescape",
   "description": "Copy JS/TS string literals unescaped",
   "version": "1.0.0",
+  "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
     "url": "https://github.com/2ico/unescape-vscode.git"
   },
+  "icon": "images/icon.png",
+  "publisher": "2ico",
   "engines": {
     "vscode": "^1.80.0"
   },
